@@ -1,0 +1,1 @@
+This sample code contains a web site using servlets and jsps, connecting to a mysql 8.0 database through jdbc. Deployed and tested in Tomcat 9.
